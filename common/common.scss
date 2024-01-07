@@ -15,11 +15,11 @@
     height: 100%;
   }
   .search-menu input[type="text"] {
-    border: 1px solid transparent;
+    border: 0px solid transparent;
     border-radius: 0.25em;
     min-height: 40px;
     &:focus {
-      outline: 3px solid rgba(var(--hover-rgb), 0.35);
+      outline: 0px solid rgba(var(--hover-rgb), 0.35);
     }
   }
   .widget-link.show-help {
