@@ -249,11 +249,11 @@ div.ac-wrap {
 html {
   body {
     background: linear-gradient(
-        0deg,
+        45deg,
         rgba(var(--primary-rgb), 0.075) 0%,
         rgba(var(--primary-rgb), 0.075) 100%
       ),
-      linear-gradient(0deg, var(--secondary) 100%, var(--secondary) 100%);
+      linear-gradient(45deg, var(--secondary) 100%, var(--secondary) 100%);
   }
   .background-container {
     position: fixed;
