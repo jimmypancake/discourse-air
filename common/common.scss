@@ -19,7 +19,7 @@
     border-radius: 0.25em;
     min-height: 40px;
     &:focus {
-      outline: 3px solid rgba(var(--primary-rgb), 0.35);
+      outline: 3px solid rgba(var(--hover-rgb), 0.35);
     }
   }
   .widget-link.show-help {
