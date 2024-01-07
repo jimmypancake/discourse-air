@@ -16,7 +16,7 @@
   }
   .search-menu input[type="text"] {
     border: 0px solid transparent;
-    border-radius: 0.25em;
+    border-radius: 0.35em;
     min-height: 40px;
     &:focus {
       outline: 0px solid rgba(var(--hover-rgb), 0.35);
@@ -32,8 +32,8 @@
     }
   }
   .search-menu .search-input {
-    border-color: var(--tertiary-hover);
-    outline: 1px solid var(--tertiary-hover);
+    border-color: var(--hover-hover);
+    outline: 1px solid var(--hover-hover);
   }
   .results {
     top: 43px;
