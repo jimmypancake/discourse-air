@@ -18,7 +18,9 @@
     border: 0px solid transparent;
     border-radius: 1em;
     min-height: 40px;
-    outline: 1px solid var(--primary-400);
+    &:focus {
+      outline: 0px solid rgba(var(--primary-400), 0.35);
+    }
   }
   .widget-link.show-help {
     color: rgba(var(--primary-rgb), 0.75);
