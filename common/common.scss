@@ -59,6 +59,7 @@
 // but this ensures the default works too
 .above-main-container-outlet.search-banner {
   .custom-search-banner-wrap {
+    border-radius: 1em;
     padding: 1em 0 2em;
     color: var(--hover);
     .mobile-view & {
