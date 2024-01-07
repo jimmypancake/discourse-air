@@ -16,7 +16,7 @@
   }
   .search-menu input[type="text"] {
     border: 0px solid transparent;
-    border-radius: 1em;
+    border-radius: .8em;
     min-height: 40px;
     &:focus {
       outline: 0px solid rgba(var(--primary-400), 0.35);
